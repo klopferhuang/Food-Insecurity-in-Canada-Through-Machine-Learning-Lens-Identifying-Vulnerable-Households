@@ -27,5 +27,5 @@ The repository includes the following steps and components:
 
 [8. **Finer Regularization Grid Search**: Optimizing models using regularization techniques](RandomForest_GridSearch.ipynb).
 
-[8. **Robustness Test**: Testing the model's robustness using the 2019 CIS data](RobustnessTest.ipynb).
+[9. **Robustness Test**: Testing the model's robustness using the 2019 CIS data](RobustnessTest.ipynb).
 
