@@ -11,7 +11,7 @@ You can view the [full article](Predictive Modeling of Food Insecurity Severity 
 ## Methodology
 The repository includes the following steps and components:
 
-[1. **Exploratory Analysis**: Initial data exploration and visualization](Explanatory Analysis.ipynb).
+[1. **Exploratory Analysis**: Initial data exploration and visualization](Explanatory-Analysis.ipynb).
 [2. **Data Imputation**: Handling missing data in the dataset](Imputing Data.ipynb).
 3. **Logistic Model**: Building and evaluating a logistic regression model (`logistic_model.py`).
 4. **Decision Tree**: Building and evaluating a decision tree model (`decision_tree.py`).
