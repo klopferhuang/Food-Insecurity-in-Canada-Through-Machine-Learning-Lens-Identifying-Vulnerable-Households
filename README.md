@@ -6,7 +6,7 @@ This research tackles predicting household food insecurity in Canada using machi
 
 Feature importance measures revealed key factors influencing food insecurity, such as the age of the oldest household member, provincial tax credits, and education level of the primary earner. The study’s findings provide a foundation for policy prioritisation and decision-making, emphasizing the poten- tial of machine learning in predicting food insecurity and informing effective interventions in the context of developed countries such as Canada.
 
-You can view the [full article](Predictive Modeling of Food Insecurity Severity in Canadian Households.ipynb)
+You can view the [full article]([Predictive Modeling of Food Insecurity Severity in Canadian Households.ipynb](https://github.com/klopferhuang/Food-Insecurity-in-Canada-Through-Machine-Learning-Lens-Identifying-Vulnerable-Households/blob/main/Predictive%20Modeling%20of%20Food%20Insecurity%20Severity%20in%20Canadian%20Households.ipynb))
 
 ## Methodology
 The repository includes the following steps and components:
