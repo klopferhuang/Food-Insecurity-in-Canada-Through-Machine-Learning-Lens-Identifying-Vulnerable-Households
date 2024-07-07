@@ -19,10 +19,13 @@ The repository includes the following steps and components:
 
 [4. **Decision Tree**: Building and evaluating a decision tree model](binary_decision_tree.ipynb).
 
-[5. **Random Forest**: Building and evaluating a random forest model](`random_forest.py`).
+[5.**Random Forest and SHAP Analysis**: Building and evaluating a random forest model, followed by SHAP value analysis for feature importance](SHAP_RandomForest.ipynb).
 
-[6. **Gradient Boosting**: Building and evaluating a gradient boosting model](`gradient_boosting.py`).
-[7. **Regularization with Random Search and Grid Search**: Optimizing models using regularization techniques](`regularization_search.py`).
-[8. **SHAP Value Analysis**: Analyzing feature importance using SHAP values for the best-performing model](`shap_analysis.py`).
-[9. **Robustness Test**: Testing the model's robustness using the 2019 CIS data](`robustness_test.py`).
+[6. **Gradient Boosting**: Building and evaluating a gradient boosting model](gradient_boosting_imputed.ipynb).
+
+[7. **Regularization with Random Search and Grid Search**: Optimizing models using regularization techniques](RandomForest-Regularization-RandomizedSearchCV.ipynb).
+
+[8. **Finer Regularization Grid Search**: Optimizing models using regularization techniques](RandomForest_GridSearch.ipynb).
+
+[8. **Robustness Test**: Testing the model's robustness using the 2019 CIS data](RobustnessTest.ipynb).
 
